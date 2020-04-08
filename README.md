@@ -1,2 +1,2 @@
-# numpy
-numpy lesson from ml learning
+# machine learning lessons
+
